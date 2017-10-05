@@ -1,0 +1,30 @@
+#primaryText {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+h1 {
+	font-family: 'Slabo 27px', serif;
+	font-weight: 900;
+}
+hr {
+	color: black;
+	height: 1px;
+	background-color: black;
+}
+body {
+	background-color: lightgrey;
+	font-family: 'Slabo 27px', serif;
+
+}
+li {
+	font-weight: 900;
+}
+span {
+	font-weight: 200;
+}
+p {
+	font-weight: 900;
+}
+address {
+	font-weight: 900;
+}
